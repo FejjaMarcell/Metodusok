@@ -1,0 +1,14 @@
+D:\Fejja_Marcell_12B\C#\Metodusok\Metodusok\bin\Debug\net8.0\Metodusok.exe
+D:\Fejja_Marcell_12B\C#\Metodusok\Metodusok\bin\Debug\net8.0\Metodusok.deps.json
+D:\Fejja_Marcell_12B\C#\Metodusok\Metodusok\bin\Debug\net8.0\Metodusok.runtimeconfig.json
+D:\Fejja_Marcell_12B\C#\Metodusok\Metodusok\bin\Debug\net8.0\Metodusok.dll
+D:\Fejja_Marcell_12B\C#\Metodusok\Metodusok\bin\Debug\net8.0\Metodusok.pdb
+D:\Fejja_Marcell_12B\C#\Metodusok\Metodusok\obj\Debug\net8.0\Metodusok.GeneratedMSBuildEditorConfig.editorconfig
+D:\Fejja_Marcell_12B\C#\Metodusok\Metodusok\obj\Debug\net8.0\Metodusok.AssemblyInfoInputs.cache
+D:\Fejja_Marcell_12B\C#\Metodusok\Metodusok\obj\Debug\net8.0\Metodusok.AssemblyInfo.cs
+D:\Fejja_Marcell_12B\C#\Metodusok\Metodusok\obj\Debug\net8.0\Metodusok.csproj.CoreCompileInputs.cache
+D:\Fejja_Marcell_12B\C#\Metodusok\Metodusok\obj\Debug\net8.0\Metodusok.dll
+D:\Fejja_Marcell_12B\C#\Metodusok\Metodusok\obj\Debug\net8.0\refint\Metodusok.dll
+D:\Fejja_Marcell_12B\C#\Metodusok\Metodusok\obj\Debug\net8.0\Metodusok.pdb
+D:\Fejja_Marcell_12B\C#\Metodusok\Metodusok\obj\Debug\net8.0\Metodusok.genruntimeconfig.cache
+D:\Fejja_Marcell_12B\C#\Metodusok\Metodusok\obj\Debug\net8.0\ref\Metodusok.dll
