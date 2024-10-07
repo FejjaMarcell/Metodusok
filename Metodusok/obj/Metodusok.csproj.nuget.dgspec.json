@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Fejja_Marcell_12B\\C#\\Metodusok\\Metodusok\\Metodusok.csproj": {}
+    "D:\\Fejja_Marcell_12B\\C#\\Metodusok\\Metodusok\\Metodusok\\Metodusok.csproj": {}
   },
   "projects": {
-    "D:\\Fejja_Marcell_12B\\C#\\Metodusok\\Metodusok\\Metodusok.csproj": {
+    "D:\\Fejja_Marcell_12B\\C#\\Metodusok\\Metodusok\\Metodusok\\Metodusok.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Fejja_Marcell_12B\\C#\\Metodusok\\Metodusok\\Metodusok.csproj",
+        "projectUniqueName": "D:\\Fejja_Marcell_12B\\C#\\Metodusok\\Metodusok\\Metodusok\\Metodusok.csproj",
         "projectName": "Metodusok",
-        "projectPath": "D:\\Fejja_Marcell_12B\\C#\\Metodusok\\Metodusok\\Metodusok.csproj",
+        "projectPath": "D:\\Fejja_Marcell_12B\\C#\\Metodusok\\Metodusok\\Metodusok\\Metodusok.csproj",
         "packagesPath": "C:\\Users\\fejja.marcell.balazs\\.nuget\\packages\\",
-        "outputPath": "D:\\Fejja_Marcell_12B\\C#\\Metodusok\\Metodusok\\obj\\",
+        "outputPath": "D:\\Fejja_Marcell_12B\\C#\\Metodusok\\Metodusok\\Metodusok\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\fejja.marcell.balazs\\AppData\\Roaming\\NuGet\\NuGet.Config",
